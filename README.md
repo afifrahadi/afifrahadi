@@ -1,13 +1,12 @@
 # Hi, I'm Afif Imam Rahadi
 
-Software Engineer Intern based in Jakarta, Indonesia. Informatics graduate (Cum Laude) from Sebelas Maret University.
+Informatics graduate (Cum Laude) from Sebelas Maret University.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afifrahadi)
 [![Email](https://img.shields.io/badge/Email-afif0901rahadi%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:afif0901rahadi@gmail.com)
 
 I'm an Informatics graduate from Sebelas Maret University (GPA 3.77/4.00) with hands-on experience in web systems, cloud computing, and IT operations. I've worked across technology, banking, and academic environments, from building ERP features in an Agile team to designing data dashboards and teaching Operating Systems practicums.
 
-- Currently: Software Engineer Intern at **PT Takodam Ciptamandiri Nusantara**, building ERP features with Django, Next.js, and Docker
 - Interested in: backend and full-stack web development, cloud infrastructure
 - Open to internship and full-time opportunities in web development, data, and cloud
 
@@ -23,7 +22,7 @@ I'm an Informatics graduate from Sebelas Maret University (GPA 3.77/4.00) with h
 
 ## Experience
 
-**Software Engineer Intern**, PT Takodam Ciptamandiri Nusantara (Jul 2026 to now)
+**Software Engineer Intern**, PT Takodam Ciptamandiri Nusantara (Jul 2026 to Oct 2026)
 Working on ERP features with Django, Next.js, and Docker. We run bi-weekly sprints, and I demo my changes to QA before each sprint review.
 
 **Resource, Partnership & Inventory Intern**, PT Telkom Indonesia (Persero) Tbk (Jan 2025 to Feb 2025)
