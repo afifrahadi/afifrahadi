@@ -9,21 +9,23 @@ I'm an Informatics graduate from Sebelas Maret University (GPA 3.77/4.00) with h
 
 - Interested in: backend and full-stack web development, cloud infrastructure
 - Open to internship and full-time opportunities in web development, data, and cloud
+- Location: Jakarta, Indonesia
 
 ## Tech Stack
 
 | Area | Tools |
 |------|-------|
-| Languages | PHP, Python, JavaScript, C, C++, SQL, HTML, CSS |
-| Frameworks | Laravel, Django, Next.js |
-| Database | MySQL |
-| Cloud & DevOps | Google Cloud Platform, Docker, Git |
-| Data | Tableau |
+| Languages | PHP, Python, JavaScript, TypeScript, C, C++, SQL, HTML, CSS |
+| Frameworks | Laravel, Django REST Framework, Next.js, Node.js |
+| Database | MySQL, PostgreSQL, Firestore |
+| Cloud & DevOps | Google Cloud, App Engine, Cloud Run, Cloud Storage, Docker, Git, GitHub, GitLab CI/CD |
+| Data & ML | pandas, NumPy, scikit-learn, Jupyter, Tableau |
+| Other Tools | Jira, Chart.js, Bootstrap, Linux, Bash, VirtualBox |
 
 ## Experience
 
 **Software Engineer Intern**, PT Takodam Ciptamandiri Nusantara (Jul 2026 to Oct 2026)
-Working on ERP features with Django, Next.js, and Docker. We run bi-weekly sprints, and I demo my changes to QA before each sprint review.
+Working on ERP features with Django, Next.js, and Docker. We run bi-weekly sprints, and I demo my changes to QA through UAT together with the project manager and QA.
 
 **Resource, Partnership & Inventory Intern**, PT Telkom Indonesia (Persero) Tbk (Jan 2025 to Feb 2025)
 Built an inventory management system in Laravel with QR code generation and scanning, so devices could be identified faster.
@@ -36,6 +38,13 @@ Learned GCP services, how to deploy cloud apps, and serverless architecture.
 
 **Assets & Liabilities Management Intern**, PT Bank Rakyat Indonesia (Persero) Tbk (Aug 2024 to Sep 2024)
 Made Tableau dashboards for SME loans and liquidity, and did quality control on the National Performance Dashboard.
+
+## Organizations
+
+- Coordinating Minister for Interests and Talents, BEM FATISDA UNS
+- General Affair Staff, PINGFEST
+- Staff of Interest and Talent, HIMASTER UNS
+- General Affair Staff & Senior Supervisor, PKKMB FATISDA UNS
 
 ## Projects
 
@@ -50,4 +59,12 @@ Made Tableau dashboards for SME loans and liquidity, and did quality control on 
 ## Certifications
 
 - Bangkit Academy Graduate, Cloud Computing Path (2024)
-- Full Stack Developer with PHP, Bina Nusantara (2024)
+- Full Stack Developer with PHP, BINUS Center (2024)
+- Google Cloud Engineer, Dicoding (2024)
+- Applied Machine Learning with Google Cloud, Dicoding (2024)
+- Back-End Development for Beginners with Google Cloud, Dicoding (2024)
+- Python Programming Fundamentals, Dicoding (2024)
+- JavaScript Programming Fundamentals, Dicoding (2024)
+- Web Programming Fundamentals, Dicoding (2024)
+- Git & GitHub Fundamentals, Dicoding (2024)
+- TOEFL Prediction Test — Score 507 (2026)
